@@ -1,0 +1,2 @@
+#define struct-point2_VERSION_MAJOR @struct-point2_VERSION_MAJOR@
+#define struct-point2_VERSION_MINOR @struct-point2_VERSION_MINOR@
